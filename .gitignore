@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Test and tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# The user's own habit data: generated on first run, not part of the source
+habits_data.json
+
+# Course material and tutor feedback, kept out of the public repository
+REVIEWS.TXT
+PROJECT FILES AND DETAILS/
+SUBMISSION/
+*.superseded
+.pycache_superseded/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

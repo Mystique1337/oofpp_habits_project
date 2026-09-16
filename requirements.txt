@@ -1,0 +1,5 @@
+# The application and its test suite run on the Python 3.10+ standard library
+# alone, so this file is intentionally empty of runtime dependencies.
+#
+# Optional, for running the suite with pytest instead of unittest:
+#   pytest>=7.0
